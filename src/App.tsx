@@ -192,7 +192,7 @@ export default function App() {
               ) : (
                 <>
                   <ShieldCheck size={20} />
-                  Access Dashboard
+                  Start Analysis
                 </>
               )}
             </button>
